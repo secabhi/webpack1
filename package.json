@@ -1,0 +1,17 @@
+{
+  "name": "webpack1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:secabhi/webpack1.git",
+  "author": "secabhi <abhiatstudy@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "1.14.0"
+  },
+  "scripts": {
+    "webpack": "webpack ./app.js ./bundle.js"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
